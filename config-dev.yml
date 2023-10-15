@@ -1,2 +1,2 @@
 test:
- property: value-from-configuration-dev
+ property: changed value
