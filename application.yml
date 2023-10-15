@@ -1,3 +1,2 @@
 test:
-  global:
-    property: value-from-configuration
+  property: value-from-configuration

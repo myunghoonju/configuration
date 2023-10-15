@@ -1,4 +1,0 @@
-server:
-  contextPath: /spring-cloud-config-client
-test:
-  property: value-from-configuration-dev
